@@ -1,5 +1,7 @@
-# EOBook
+# Esperanto Course
 
-Esperanto Course
+Simple Esperanto Course for Beginners
 
-With MDBooks
+[Check it out](https://darccyy.github.io/esperanto)
+
+Made with [mdBook](https://github.com/rust-lang/mdBook/)
