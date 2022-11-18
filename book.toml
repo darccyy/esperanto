@@ -1,0 +1,6 @@
+[book]
+title = "Esperanto Book"
+authors = ["darcy"]
+language = "en"
+multilingual = false
+src = "src"
