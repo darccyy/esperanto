@@ -16,3 +16,21 @@ The language is primarily based on English, Polish, Italian, French, German, and
 
 All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
+# Resources
+
+## Websites
+
+- [Esperanto 12 Lessons](https://esperanto12.net/en/)
+- [Lernu!](https://lernu.net)
+- [Duolingo](https://duolingo.com)
+
+## Youtube
+
+- [Esperanto - LangFocus](https://www.youtube.com/watch?v=KztctvSveEI)
+- [Exploring Esperanto](https://www.youtube.com/c/ExploringEsperanto)
+- [Evildea](https://www.youtube.com/c/Evildea)
+- [Esperanto (Conlang Critic) - Jan Misali](https://www.youtube.com/watch?v=Sao9mCLy3Xo)
+
+## Other
+
+- [Garfield Esperanto](instagram.com/garfield.eo)
