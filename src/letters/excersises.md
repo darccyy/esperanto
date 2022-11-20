@@ -18,6 +18,8 @@ Practice saying these words aloud:
 | verŝajne  | verr-SHY-neh        | verˈʃai̯ne  | probably    |
 | ankaŭ     | ahn-COW             | aŋkau̯      | also        |
 
-Try reading this sentence aloud:
+Try reading these sentences aloud:
 
 > La viro estas verŝajne feliĉa ankaŭ (The man is probably happy too)
+
+> Laŭ Ludviko Zamenhof, bongustas freŝa ĉeĥa manĝaĵo kun spicoj (According to Ludwig Zamenhof, fresh Czech food with spices tastes good)
