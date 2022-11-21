@@ -1,4 +1,4 @@
-# Accusative with Nouns
+# With Nouns
 
 The _accusative_ noun in Esperanto will _always_ have the _-n_ suffix at the _very end_ of the word.
 

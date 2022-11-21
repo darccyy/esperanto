@@ -1,4 +1,4 @@
-# Accusative with Copula Verbs
+# With Copula Verbs
 
 If the [verb](./verbs.md) of the sentence is a _Copula_, then the second noun is **not** considered _accusative_ in Esperanto.
 
