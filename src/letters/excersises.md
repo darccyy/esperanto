@@ -20,6 +20,11 @@ Practice saying these words aloud:
 
 Try reading these sentences aloud:
 
-> La viro estas verŝajne feliĉa ankaŭ (The man is probably happy too)
+> La viro estas verŝajne feliĉa ankaŭ
+>
+> - _Meaning:_ The man is probably happy too
 
-> Laŭ Ludviko Zamenhof, bongustas freŝa ĉeĥa manĝaĵo kun spicoj (According to Ludwig Zamenhof, fresh Czech food with spices tastes good)
+> Laŭ Ludviko Zamenhof, bongustas freŝa ĉeĥa manĝaĵo kun spicoj
+>
+> - _Meaning:_ According to Ludwig Zamenhof, fresh Czech food with spices tastes good
+> - This sentence contains every letter of the alphabet!
