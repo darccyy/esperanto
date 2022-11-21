@@ -6,10 +6,10 @@ This is called the noun's _case_.
 
 The _nominative_ noun in a sentence often goes before the verb, with the _accusative_ noun after.
 
-_Eg:_
-
-- I see you
-- '_I_' is the nominative (because it is the one performing the action), '_you_' is the accusative (because it is the one having the action done to it)
+> **Eg.**
+>
+> - I see you
+> - '_I_' is the nominative (because it is the one performing the action), '_you_' is the accusative (because it is the one having the action done to it)
 
 > **Tip:** If you can't figure out which noun is which in an English sentence, try replacing both nouns with '**he**' or '**him**'
 >

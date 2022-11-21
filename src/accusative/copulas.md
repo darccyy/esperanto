@@ -17,10 +17,10 @@ The above examples are basically the only _copula_ verbs you would encounter or 
 
 Due no noun in a sentence with a _copula_ verb having an _accusative_ suffix, the word order is less free.
 
-_Eg:_
-
-The sentence 'I am happy' can be translated as 'Mi estas feliĉa', **not** 'Mi estas feliĉa**n**'.
-
-This is because 'estas' is considered a _copula_ verb.
+> **Eg.**
+>
+> The sentence 'I am happy' can be translated as 'Mi estas feliĉa', **not** 'Mi estas feliĉa**n**'.
+>
+> This is because 'estas' is considered a _copula_ verb.
 
 > **Note:** Occasionally it can be another order, such as 'Mi feliĉa estas', or 'Feliĉa estas mi', however this is mainly for poetry. Don't worry about it being in this order when translating.

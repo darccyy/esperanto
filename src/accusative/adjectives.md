@@ -1,3 +1,3 @@
 # Accusative with Adjectives
 
-Adjectives always inherit *number* and *case* suffixes from their noun.
+[Adjectives](../pos/adwords.md) always inherit _number_ and _case_ suffixes from their [noun](../pos/nouns.md).
